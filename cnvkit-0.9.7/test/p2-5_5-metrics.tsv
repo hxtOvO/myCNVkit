@@ -1,0 +1,2 @@
+sample	segments	stdev	mad	iqr	bivar
+build/p2-5_5.cnr	71	0.334533	0.126734	0.171445	0.148488
